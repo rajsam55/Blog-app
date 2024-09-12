@@ -1,0 +1,40 @@
+.header {
+
+    display : flex;
+    justify-content:space-between;
+    padding : 20px;
+    background-color :aqua;
+    
+    
+}
+
+.link {
+
+    display : flex;
+    gap : 20px;
+    text-decoration: none;
+}
+
+.home {
+
+    padding : 20px;
+    font-weight : 600;
+}
+.addnew {
+
+    padding : 20px;
+    font-weight : 600;
+}
+
+.links{
+    text-decoration : none;
+}
+.form {
+
+    display :flex;
+    flex-direction: column;
+    max-width : 1950px;
+    
+    gap : 20px;
+    align-items : center;
+}
